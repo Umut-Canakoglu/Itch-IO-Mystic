@@ -24,7 +24,6 @@ public class movement : MonoBehaviour
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
         FixedUpdate();
-        Rotation();
     }
     private void FixedUpdate()
     {
