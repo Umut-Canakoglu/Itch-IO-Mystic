@@ -24,13 +24,4 @@ public class Collect : MonoBehaviour
         }
 
     }
-    private void OnDrawGizmos()
-    {
-        float rotationAngle = rb.rotation;
-        Gizmos.color = Color.red;
-        Matrix4x4 rotationMatrix = Matrix4x4.TRS(rb.position, Quaternion.Euler(0, 0, rotationAngle), Vector3.one);
-        Gizmos.matrix = rotationMatrix;
-        Gizmos.DrawWireCube(Vector3.zero, transform.localScale*4);
-        Gizmos.matrix = Matrix4x4.identity;
     }
-}

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 095281bf280624b788421544623efa7f
+guid: ea73b314516884c84af8807badce8cc7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -81,6 +81,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -110,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tilesetbetter_0
+      name: graveyard16x16_0
       rect:
         serializedVersion: 2
         x: 48
@@ -124,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8867774d980f2466489549825ad0bad1
-      internalID: 280003056
+      spriteID: 4c3d08384549c42abae960780eebb8fe
+      internalID: -453788305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_1
+      name: graveyard16x16_1
       rect:
         serializedVersion: 2
         x: 64
@@ -145,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ec5b245f036648a992acd46ebcfcfe4
-      internalID: 1556987175
+      spriteID: 05d3e2d040dec4a56b21139851ea0e52
+      internalID: 124017439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_2
+      name: graveyard16x16_2
       rect:
         serializedVersion: 2
         x: 48
@@ -166,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65f2ce8ca50974bfc9607d0460b7a452
-      internalID: -1004550258
+      spriteID: 16fa41f7193824c4c8cd1eb8d150a7ca
+      internalID: 527921757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_3
+      name: graveyard16x16_3
       rect:
         serializedVersion: 2
         x: 32
@@ -187,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43928cb949fdc4790924420d7c7fe708
-      internalID: 1878210215
+      spriteID: 3c7adcf2813fb4fe49b7fd07d32710a5
+      internalID: -1021404538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_4
+      name: graveyard16x16_4
       rect:
         serializedVersion: 2
         x: 48
@@ -208,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 403c77492a61040bc8a8cae8be47338e
-      internalID: -1193373695
+      spriteID: 1aed0046543a94cbb935be7edbd1592f
+      internalID: 27106570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_5
+      name: graveyard16x16_5
       rect:
         serializedVersion: 2
         x: 64
@@ -229,14 +242,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01540b3b791524f8a8df6bd4cd1eb8fd
-      internalID: -1340101119
+      spriteID: 84788b97d437544428331b3412abfadf
+      internalID: 2066153958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_6
+      name: graveyard16x16_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72efbe8be5bad471282532dd8aa21263
+      internalID: -150600017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graveyard16x16_7
       rect:
         serializedVersion: 2
         x: 112
@@ -250,14 +284,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f0a8e59e9948448795e205c2d34cbda
-      internalID: 981127091
+      spriteID: 49ff5f9a5ec824f9cb787ec60bf3ba12
+      internalID: 1201521325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_7
+      name: graveyard16x16_8
       rect:
         serializedVersion: 2
         x: 112
@@ -271,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 924d7d5baf29a46bf845b879ea6fee2f
-      internalID: -1914882798
+      spriteID: 96d1d252ec0904235b94d2ca51e0b64c
+      internalID: -423432329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_8
+      name: graveyard16x16_9
       rect:
         serializedVersion: 2
         x: 48
@@ -292,14 +326,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e4a55bf3ad9a497c845a5b78963b66c
-      internalID: 276163644
+      spriteID: 5cf2efb3cf78449f58707efe09f67095
+      internalID: 831036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_9
+      name: graveyard16x16_10
       rect:
         serializedVersion: 2
         x: 64
@@ -313,14 +347,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 691fc3f46db3d4a8bb104131fade2878
-      internalID: 842198232
+      spriteID: 79079cac5a3634584b873fd047c18735
+      internalID: 557085422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_10
+      name: graveyard16x16_11
       rect:
         serializedVersion: 2
         x: 80
@@ -334,14 +368,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a43fc62764364df381b259b34ad39af
-      internalID: 197149710
+      spriteID: 151371efb63684291b68b228983df16b
+      internalID: -637606262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetbetter_11
+      name: graveyard16x16_12
       rect:
         serializedVersion: 2
         x: 96
@@ -355,8 +389,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e381abb2e7fd24a7696a813c21a87c14
-      internalID: -1698449404
+      spriteID: 8fc7a47a79a5e48e8a554301cb38da68
+      internalID: 1456492499
       vertices: []
       indices: 
       edges: []
@@ -372,18 +406,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tilesetbetter_0: 280003056
-      tilesetbetter_1: 1556987175
-      tilesetbetter_10: 197149710
-      tilesetbetter_11: -1698449404
-      tilesetbetter_2: -1004550258
-      tilesetbetter_3: 1878210215
-      tilesetbetter_4: -1193373695
-      tilesetbetter_5: -1340101119
-      tilesetbetter_6: 981127091
-      tilesetbetter_7: -1914882798
-      tilesetbetter_8: 276163644
-      tilesetbetter_9: 842198232
+      graveyard16x16_0: -453788305
+      graveyard16x16_1: 124017439
+      graveyard16x16_10: 557085422
+      graveyard16x16_11: -637606262
+      graveyard16x16_12: 1456492499
+      graveyard16x16_2: 527921757
+      graveyard16x16_3: -1021404538
+      graveyard16x16_4: 27106570
+      graveyard16x16_5: 2066153958
+      graveyard16x16_6: -150600017
+      graveyard16x16_7: 1201521325
+      graveyard16x16_8: -423432329
+      graveyard16x16_9: 831036
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
